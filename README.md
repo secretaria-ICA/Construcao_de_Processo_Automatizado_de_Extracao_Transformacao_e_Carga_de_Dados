@@ -1,4 +1,4 @@
-# Construção de processo automatizado de extração, transformação e carga de dados para acompanhamento de registros de marcas no INPI
+# Construção de Processo Automatizado de Extração, Transformação e Carga de Dados para Acompanhamento de Registros de Marcas no INPI
 
 #### Aluno: [Christian Testtzlaffe Alpoim](https://github.com/testtzlaffe)
 #### Orientador: [Anderson Nascimento](https://github.com/insightds)
